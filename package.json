@@ -26,6 +26,9 @@
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10"
   },
+  "engines": {
+    "node": "12.x"
+  },
   "dependencies": {
     "@salesforce-ux/design-system": "=2.8.1",
     "body-parser": "^1.19.0",
